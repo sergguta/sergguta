@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif" width="100"/>
+
   
   <div id="badges">
   <a href="https://www.youtube.com/@SergioGutierrez91">
