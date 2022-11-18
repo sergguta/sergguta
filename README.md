@@ -5,10 +5,10 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.linkedin.com/in/sergguta/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/sagutierreza">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -32,13 +32,12 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 
- :telescope: I’m working as a Software Engineer and contributing to  backend for building analytical models.
+ :telescope: Data Engineer and Web developer, with formation in Economics and Magister in Business Administration. Extensive knowledge, passion and experience in data analytics, statistics, programming, databases, server administration and web development. Advanced skills in languages like SQL, python, R, JavaScript, PHP, Scala, ABAP and bash. Expert in SAP solutions like Data Intelligence, SAP Analytics Cloud, Hana and Business Warehouse BW. 
+I also work with Web Development with technologies like React, Node JS, Bootstrap, CSS and HTML. Expert creating web ecommerce and landing pages.
 
-- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I read tech articles and try learn new programming languages and frameworks.
 
-- :zap: In my free time, I read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sergguta-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sergguta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergguta/)
 
 
 <div align="center">
