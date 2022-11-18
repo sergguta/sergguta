@@ -30,9 +30,9 @@
 ### :man_technologist: About Me :
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 
- :telescope: Data Engineer and Web developer, with formation in Economics and Magister in Business Administration. Extensive knowledge, passion and experience in data analytics, statistics, programming, databases, server administration and web development. Advanced skills in languages like SQL, python, R, JavaScript, PHP, Scala, ABAP and bash. Expert in SAP solutions like Data Intelligence, SAP Analytics Cloud, Hana and Business Warehouse BW. 
+
+ :telescope: Data Engineer and Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia, with formation in Economics and Magister in Business Administration. Extensive knowledge, passion and experience in data analytics, statistics, programming, databases, server administration and web development. Advanced skills in languages like SQL, python, R, JavaScript, PHP, Scala, ABAP and bash. Expert in SAP solutions like Data Intelligence, SAP Analytics Cloud, Hana and Business Warehouse BW. 
 I also work with Web Development with technologies like React, Node JS, Bootstrap, CSS and HTML. Expert creating web ecommerce and landing pages.
 
 - :zap: In my free time, I read tech articles and try learn new programming languages and frameworks.
