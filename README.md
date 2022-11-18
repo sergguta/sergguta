@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/BgKEiHf1xNV0h6IcSX" width="100"/>
-  
+  <iframe src="https://giphy.com/embed/BgKEiHf1xNV0h6IcSX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SignatureEntertainmentUK-signatureentertainment-mel-gibson-hot-seat-BgKEiHf1xNV0h6IcSX">via GIPHY</a></p>
   
   <div id="badges">
   <a href="https://www.youtube.com/@SergioGutierrez91">
